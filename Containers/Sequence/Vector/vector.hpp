@@ -1,5 +1,5 @@
-#ifndef __VECTOR__
-#define __VECTOR__
+#ifndef __VECTOR__HPP__
+#define __VECTOR__HPP__
 
 #include <iostream>
 #include <algorithm>
@@ -244,4 +244,4 @@ void Vector<T>::print() const
     std::cout << std::endl;
 }
 
-#endif // __VECTOR__
+#endif // __VECTOR__HPP__

@@ -2,7 +2,6 @@
 #define __LIST__HPP__
 
 #include <iostream>
-#include <stdexcept>
 
 template <typename T>
 class List
